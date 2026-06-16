@@ -19,7 +19,7 @@
 ## 🚀 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
 </p>
 
 ---
@@ -42,13 +42,6 @@
 
 ---
 
-## 🔥 Projeto em destaque
-
-🚗 Carrinho Seguidor de Linha
-
-Projeto desenvolvido com Arduino utilizando sensores infravermelhos para seguir trajetórias automaticamente.
-
----
 
 ## 🎮 Hobbies
 
